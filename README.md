@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou o Altivo! 👋
 
-<!--
-**altivoajunior/altivoajunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+De São Paulo, Brasil 🇧🇷 | Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-Here are some ideas to get you started:
+Sou um desenvolvedor focado no ecossistema JavaScript/TypeScript, construindo aplicações web modernas com React no front-end e arquiteturas robustas no back-end utilizando Node.js. Busco minha primeira oportunidade como **Estagiário** ou **Desenvolvedor Júnior**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Minhas Tecnologias & Ferramentas
+
+🔹 **Front-end:**
+- React.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5 / CSS3
+
+🔹 **Back-end & Banco de Dados:**
+- Node.js
+- Express.js
+- Estruturas de Dados e Algoritmos
+
+🔹 **Ferramentas & Controle de Versão:**
+- Git / GitHub
+- Conceitos de IHC (Interface Humano-Computador) e Acessibilidade Web
+
+---
+
+### 🚀 O que estou estudando neste momento?
+- **Otimização de Algoritmos:** Implementação de lógicas complexas de busca e ordenação.
+- **Engenharia de Usabilidade:** Design focado na experiência do usuário e diretrizes de acessibilidade (WCAG).
+- **Projetos Integrados:** Criação de plataformas Full Stack conectando o ecossistema React ao Node.js.
+
+---
+
+### 🌐 Vamos nos conectar?
+
+💼 **LinkedIn:** [Acesse meu perfil profissional aqui](https://linkedin.com)
