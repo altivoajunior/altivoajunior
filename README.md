@@ -1,3 +1,5 @@
+![Snake animation](https://githubusercontent.com)
+
 # Olá, eu sou o Altivo! 👋
 
 De São Paulo, Brasil 🇧🇷 | Estudante de Análise e Desenvolvimento de Sistemas (ADS).
