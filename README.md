@@ -1,4 +1,4 @@
-# Olá, eu sou o Altivo! 👋
+# Olá, eu sou o Altivo Junior! 👋
 
 De São Paulo, Brasil 🇧🇷 | Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
