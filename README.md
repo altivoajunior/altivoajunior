@@ -1,6 +1,8 @@
 # Olá, eu sou o Altivo Junior! 👋
 
-De São Paulo, Brasil 🇧🇷 | Estudante de Análise e Desenvolvimento de Sistemas (ADS).
+De São Paulo, Brasil 🇧🇷 
+
+Análise e Desenvolvimento de Sistemas (ADS) | Eng de Software (04/08).
 
 Sou um desenvolvedor focado no ecossistema JavaScript/TypeScript, construindo aplicações web modernas com React no front-end e arquiteturas robustas no back-end utilizando Node.js. Busco minha primeira oportunidade como **Estagiário** ou **Desenvolvedor Júnior**.
 
@@ -34,4 +36,4 @@ Sou um desenvolvedor focado no ecossistema JavaScript/TypeScript, construindo ap
 
 ### 🌐 Vamos nos conectar?
 
-💼 **LinkedIn:** [Acesse meu perfil profissional aqui](https://linkedin.com)
+💼 **LinkedIn:** [Acesse meu perfil profissional aqui]((https://www.linkedin.com/in/altivo-junior-113297379/?isSelfProfile=true))
