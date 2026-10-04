@@ -25,15 +25,5 @@ Sou um desenvolvedor focado no ecossistema JavaScript/TypeScript, construindo ap
 - Git / GitHub
 - Conceitos de IHC (Interface Humano-Computador) e Acessibilidade Web
 
----
 
-### 🚀 O que estou estudando neste momento?
-- **Otimização de Algoritmos:** Implementação de lógicas complexas de busca e ordenação.
-- **Engenharia de Usabilidade:** Design focado na experiência do usuário e diretrizes de acessibilidade (WCAG).
-- **Projetos Integrados:** Criação de plataformas Full Stack conectando o ecossistema React ao Node.js.
 
----
-
-### 🌐 Vamos nos conectar?
-
-💼 **LinkedIn:** [Acesse meu perfil profissional aqui]((https://www.linkedin.com/in/altivo-junior-113297379/?isSelfProfile=true))
