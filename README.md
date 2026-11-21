@@ -13,13 +13,13 @@ Meu foco está no ecossistema JavaScript/TypeScript, desenvolvendo interfaces co
 
 💻 Tecnologias & Ferramentas:
 
-🎨 Front-end
+🎨 Full Stack
 ⚛️ React.js
 🔷 TypeScript
 🟨 JavaScript
 🌐 HTML5
 🎨 CSS3
-⚙️ Back-end & Desenvolvimento
+⚙️ Desenvolvimento
 🟢 Node.js
 🧠 Estruturas de Dados e Algoritmos
 🏗️ Desenvolvimento de APIs e aplicações web
